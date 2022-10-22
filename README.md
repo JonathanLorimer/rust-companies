@@ -79,6 +79,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Braintree](https://www.braintreepayments.com) - Speeding up batch processing and for small command-line utilities.
 * [Spoqa](https://www.spoqa.com) - Our POS integration SDK is entirely written in Rust.
 * [TenX](https://tenx.tech) - Building a secure and scalable distributed payments system in Rust.
+* [Holdings](https://holdings.io)([job posting](https://holdings.rippling-ats.com/job/508477/backend-engineer)) - Web server in pure rust that facilitates connecting financial information from disparate sources.
 
 #### Machine Learning | AI
 
